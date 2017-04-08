@@ -9,7 +9,7 @@ SERVICIOS
 
 ### INTEGRANTES:
 
-> Martinez Mancera Edgar Juan de Dios
-> Rodriguez Francisco
+> Martinez Mancera Edgar Juan de Dios, 
+> Rodriguez Francisco, 
 > Sierra Diaz Carla Berenice
 
